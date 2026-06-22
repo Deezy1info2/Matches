@@ -1,0 +1,53 @@
+{
+  "updated_at": "2026-06-22",
+  "matches": [
+    {
+      "id": 1,
+      "competition": "UEFA Champions League",
+      "status": "LIVE",
+      "minute": "90'",
+
+      "home_team": {
+        "name": "Real Madrid",
+        "logo": "https://crests.football-data.org/86.png"
+      },
+
+      "away_team": {
+        "name": "Manchester City",
+        "logo": "https://crests.football-data.org/65.png"
+      },
+
+      "date": "2026-06-05",
+      "time": "21:00",
+
+      "streams": [
+        "https://your-stream-server.com/live1.m3u8",
+        "https://backup-server.com/live1.m3u8"
+      ]
+    },
+
+    {
+      "id": 2,
+      "competition": "Premier League",
+      "status": "UPCOMING",
+      "minute": "",
+
+      "home_team": {
+        "name": "Arsenal",
+        "logo": "https://crests.football-data.org/57.png"
+      },
+
+      "away_team": {
+        "name": "Chelsea",
+        "logo": "https://crests.football-data.org/61.png"
+      },
+
+      "date": "2026-06-23",
+      "time": "18:30",
+
+      "streams": [
+        "https://backup-stream.com/arsenal-chelsea.m3u8"
+      ]
+    }
+  ]
+}
